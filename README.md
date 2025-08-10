@@ -4,12 +4,9 @@ To have the code download my zip github code and then run command "npm run dev"
 Not forget to install the dependencies that are required to build the project easily.
 ## What technologies are used for this project?
 
-This project is built with:
+This project is built with React vite and tailwind css
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+There is an issue while importing the node modules be aware of it and install them manually or else you may get the errors
+
 
 

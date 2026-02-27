@@ -54,5 +54,5 @@ This project is ideal for:
 
    cd Youtube-Clone
 
-   ![Homepage Screenshot](assets/homepage.png)
+   ![Homepage Screenshot](HomePage.png)
 

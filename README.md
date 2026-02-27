@@ -1,12 +1,58 @@
+# 🎬 YouTube Clone
 
-If you have any doubts feel free to connect me mail will be in the description and you can also use the linkedin as well.
-To have the code download my zip github code and then run command "npm run dev"
-Not forget to install the dependencies that are required to build the project easily.
-## What technologies are used for this project?
+A modern **YouTube Clone** web application built to replicate the core features and UI of YouTube.  
+This project focuses on **frontend design, responsiveness, and real-world UI behavior**, making it a great showcase for web development skills.
 
-This project is built with React vite and tailwind css
+---
 
-There is an issue while importing the node modules be aware of it and install them manually or else you may get the errors
+## 🚀 Live Demo
+> 🔗 *Coming Soon*  
+(You can add Netlify / Vercel / GitHub Pages link here later)
+
+---
+
+## 📌 Project Overview
+
+This YouTube Clone is a frontend-based application that mimics the look and feel of YouTube.  
+It allows users to browse videos, view thumbnails, titles, channels, and experience a responsive layout similar to the original platform.
+
+This project is ideal for:
+- Practicing **HTML, CSS, and JavaScript**
+- Understanding **layout design**
+- Building **real-world clone projects**
+- Showcasing frontend skills on resumes & portfolios
+
+---
+
+## ✨ Features
+
+✅ YouTube-like UI  
+✅ Responsive design (Mobile / Tablet / Desktop)  
+✅ Video thumbnails & cards  
+✅ Sidebar navigation  
+✅ Search bar UI  
+✅ Clean and modern layout  
+✅ Beginner-friendly code structure  
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure  
+- **CSS3** – Styling & layout  
+- **JavaScript** – Interactivity  
+- **Git & GitHub** – Version control  
 
 
+---
+
+## ⚙️ How to Run the Project Locally
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/manikanta72/Youtube-Clone.git
+
+   cd Youtube-Clone
+
+   ![Homepage Screenshot](assets/homepage.png)
 
